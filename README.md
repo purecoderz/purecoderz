@@ -25,10 +25,8 @@ I build high-performance REST APIs, real-time WebSocket infrastructure, and deve
 
 ### 📊 GitHub Activity & Metrics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=purecoderz&show_icons=true&theme=tokyonight&count_private=true" alt="Taofeek's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=purecoderz&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="165" />
-</p>
+![Taofeek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=purecoderz&show_icons=true&theme=tokyonight&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=purecoderz&layout=compact&theme=tokyonight&hide=html,css)
 
 ---
 
